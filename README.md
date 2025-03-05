@@ -175,21 +175,29 @@ String password = "your-mysql-password";
 - The main interface that provides access to all banking operations (Cash Withdraw, Fast Cash, Mini-Statement, PIN Change, Balance Check, Deposit).
 
 ## `Screenshots` 
+`SingUp Screen:`
 
-Login Screen:
+![Alt Text]()
 
+`Login Screen:`
 
-Main Interface:
+![Alt Text](https://github.com/JahidulHasanSuhel/Bank-Management-System/blob/master/loginPage.png)
 
+`Main Interface:`
 
-Fast Cash:
+![Alt Text](https://github.com/JahidulHasanSuhel/Bank-Management-System/blob/master/MainInterface.png)
 
+`Fast Cash:`
 
-Mini-Statement:
+![Alt Text](https://github.com/JahidulHasanSuhel/Bank-Management-System/blob/master/FastCash.png)
 
+`Mini-Statement:`
 
-PIN Change:
+![Alt Text](https://github.com/JahidulHasanSuhel/Bank-Management-System/blob/master/MiniStatement.png)
 
+`PIN Change:`
+
+![Alt Text](https://github.com/JahidulHasanSuhel/Bank-Management-System/blob/master/ChangePIN.png)
 
 ## `Contributing`
 **Contributions are welcome! If you'd like to contribute to this project, please follow these steps:**
