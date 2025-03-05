@@ -1,0 +1,29 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+*.ids
+*.log
+out/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Node.js
+node_modules/
+
+# Maven
+target/
+
+# Gradle
+build/
+
+# Compiled files
+*.class
+*.jar
+*.war
+*.ear
