@@ -177,7 +177,7 @@ String password = "your-mysql-password";
 ## `Screenshots` 
 `SingUp Screen:`
 
-![Alt Text](https://github.com/JahidulHasanSuhel/Bank-Management-System/blob/master/Screenshot%20(8).png)
+![Alt Text](https://github.com/JahidulHasanSuhel/Bank-Management-System/blob/master/SignUp.png)
 
 `Login Screen:`
 
